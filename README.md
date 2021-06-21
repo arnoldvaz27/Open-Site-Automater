@@ -1,6 +1,10 @@
 # Open-Site-Automater
 This is a python code that can be used to open the site automatically.
 
+![Open-Site-Automater](https://img.shields.io/badge/Open--Site--Automater-No%20Pull%20Requests%20will%20be%20accepted-red)
+
+![Thank you](https://img.shields.io/badge/Arnold%20Vaz-Thank%20you%20for%20visiting%20this%20open%20source%20project%20repository-red)
+
 
 Important note for cmd format.py
 
